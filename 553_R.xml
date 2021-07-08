@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="https://github.com/" />
+  <default revision="refs/tags/NFC_AR_00_18C0_11.03.00_OpnSrc" remote="origin" />
+
+  <project path="NXPNFCProject/NFC_NCIHAL_Nfc"
+           name="NXPNFCProject/NFC_NCIHAL_Nfc" remote="origin"/>
+
+  <project path="NXPNFCProject/NFC_NCIHAL_libnfc-nci"
+           name="NXPNFCProject/NFC_NCIHAL_libnfc-nci" remote="origin"/>
+
+
+  <project path="NXPNFCProject/NFC_NCIHAL_base"
+           name="NXPNFCProject/NFC_NCIHAL_base" remote="origin"/>
+
+
+  <project path="NXPNFCProject/nfcandroid_nfc_hidlimpl"
+           name="NXPNFCProject/nfcandroid_nfc_hidlimpl" remote="origin"/>
+
+
+  <project path="NXPNFCProject/nfcandroid_se_hidlimpl"
+           name="NXPNFCProject/nfcandroid_se_hidlimpl" remote="origin"/>
+
+
+  <project path="NXPNFCProject/nfcandroid_nxp_ese_clients"
+           name="NXPNFCProject/nfcandroid_nxp_ese_clients" remote="origin"/>
+
+
+  <project path="NXPNFCProject/nfcandroid_secureelement"
+           name="NXPNFCProject/nfcandroid_secureelement" remote="origin"/>
+
+
+  <project path="NXPNFCProject/nfcandroid_frameworks"
+           name="NXPNFCProject/nfcandroid_frameworks" remote="origin"/>
+
+
+  <project path="NXPNFCProjectNXPNFC_Reference"
+           name="NXPNFCProjectNXPNFC_Reference" remote="origin"/>
+
+
+  <project path="NXPNFCProject/NXPNFC_I2CDriver"
+           name="NXPNFCProject/NXPNFC_I2CDriver" remote="origin"/>
+  
+  <project path="NXPNFCProject/NFC_NCIHAL_docs"
+           name="NXPNFCProject/NFC_NCIHAL_docs" remote="origin"/>
+
+</manifest>
