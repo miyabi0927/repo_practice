@@ -34,8 +34,8 @@
            name="NXPNFCProject/nfcandroid_frameworks" remote="origin"/>
 
 
-  <project path="NXPNFCProjectNXPNFC_Reference"
-           name="NXPNFCProjectNXPNFC_Reference" remote="origin"/>
+  <project path="NXPNFCProject/NXPNFC_Reference"
+           name="NXPNFCProject/NXPNFC_Reference" remote="origin"/>
 
 
   <project path="NXPNFCProject/NXPNFC_I2CDriver"
