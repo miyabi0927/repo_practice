@@ -43,5 +43,8 @@
   
   <project path="NXPNFCProject/NFC_NCIHAL_docs"
            name="NXPNFCProject/NFC_NCIHAL_docs" remote="origin"/>
+  
+  <project path="NXP/nfc-NXPNFCC_FW"
+           name="NXPNFCProject/nfc-NXPNFCC_FW" remote="origin"/>
 
 </manifest>
